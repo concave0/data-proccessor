@@ -20,6 +20,9 @@ python-multipart = "^0.0.9"
 requests = "^2.31.0"
 opentelemetry-api = "^1.24.0"
 opentelemetry-sdk = "^1.24.0"
+opentelemetry-instrumentation-fastapi = "^0.45b0"
+opentelemetry-instrumentation-requests = "^0.45b0"
+xds-protos = "^1.62.1"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
